@@ -5,5 +5,7 @@ public class PullPractice {
         System.out.println("Day 02 pull practice");
 
         System.out.println("Hello from Github");
+
+        System.out.println("Adding another print message from Github");
     }
 }
